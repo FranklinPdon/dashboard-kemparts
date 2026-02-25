@@ -10,7 +10,7 @@ st.set_page_config(page_title="Painel Kemparts", layout="wide")
 
 st.image("LOGO_KEMPARTS_ALTA_DEFINICAO.png", width=250)
 
-st.title("Painel Kemparts - Fevereiro 2026")
+st.title("Relatório de Performance - Fevereiro 2026")
 
 # =============================
 # CARREGAR BASE DE DADOS
