@@ -1,4 +1,7 @@
 import streamlit as st
+st.title("ATUALIZOU AGORA 🔥")
+
+import streamlit as st
 import pandas as pd
 import plotly.express as px
 
